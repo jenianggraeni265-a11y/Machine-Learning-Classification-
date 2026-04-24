@@ -1,6 +1,6 @@
 # Machine-Learning-Classification-
 
-# ❤️ Heart Disease Classification Machine Learning
+# Heart Disease Classification Machine Learning
 
 ## 📌 Deskripsi Proyek
 
@@ -8,7 +8,6 @@ Proyek ini bertujuan untuk membangun model klasifikasi dalam memprediksi kemungk
 
 Dataset yang digunakan merupakan data klinis pasien yang telah diproses dan dianalisis menggunakan beberapa algoritma machine learning untuk مقارنة performa model.
 
----
 
 ## 📊 Dataset
 
@@ -35,7 +34,6 @@ Dataset terdiri dari **1025 observasi** dan **14 variabel**, dengan rincian:
   * 0 → tidak memiliki penyakit jantung
   * 1 → memiliki penyakit jantung
 
----
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
@@ -54,7 +52,6 @@ Beberapa analisis yang dilakukan:
 📌 Insight:
 Dataset yang seimbang dan bersih membantu meningkatkan performa model klasifikasi.
 
----
 
 ## ⚙️ Metodologi
 
@@ -65,12 +62,11 @@ Dataset yang seimbang dan bersih membantu meningkatkan performa model klasifikas
 
 ### 2. Model yang Digunakan
 
-* 🌲 Random Forest (Bagging)
-* 🚀 Gradient Boosting (Boosting)
-* 🧠 Neural Network (MLP)
-* 🤝 Ensemble (Voting Classifier)
+*  Random Forest (Bagging)
+*  Gradient Boosting (Boosting)
+*  Neural Network (MLP)
+*  Ensemble (Voting Classifier)
 
----
 
 ## 📈 Hasil Model
 
@@ -81,7 +77,6 @@ Dataset yang seimbang dan bersih membantu meningkatkan performa model klasifikas
 | Neural Network    | 98.5%    |
 | Ensemble          | 98.5%    |
 
----
 
 ## 🧠 Evaluasi Model
 
@@ -104,9 +99,8 @@ Contoh confusion matrix (Ensemble):
 * Model sangat baik dalam mengidentifikasi pasien sehat
 * Namun masih terdapat sedikit kasus pasien sakit yang tidak terdeteksi (false negative)
 
----
 
-## 🚀 Insight Penting
+##  Insight Penting
 
 * Model memiliki akurasi sangat tinggi (~98.5%)
 * Random Forest dan Neural Network memberikan performa terbaik
@@ -116,7 +110,6 @@ Contoh confusion matrix (Ensemble):
 ⚠️ Dalam konteks medis:
 False Negative lebih berbahaya karena pasien sakit tidak terdeteksi
 
----
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -128,41 +121,12 @@ False Negative lebih berbahaya karena pasien sakit tidak terdeteksi
 * Scikit-learn
 * Google Colab
 
----
-
-## 📌 Cara Menjalankan
-
-1. Clone repository:
-
-```
-git clone https://github.com/username/repository-name.git
-```
-
-2. Masuk ke folder:
-
-```
-cd repository-name
-```
-
-3. Jalankan notebook di Google Colab / Jupyter Notebook
-
----
-
-## 📎 Pengembangan Selanjutnya
-
-* Hyperparameter tuning
-* ROC Curve & AUC
-* Feature Importance Analysis
-* Cross Validation
-
----
 
 ## 👩‍💻 Author
 
 Jeni Anggraeni
-Mahasiswa Statistika
+2304010021
 
----
 
 ## ⭐ Catatan
 
