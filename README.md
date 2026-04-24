@@ -6,7 +6,7 @@
 
 Proyek ini bertujuan untuk membangun model klasifikasi dalam memprediksi kemungkinan seseorang menderita penyakit jantung berdasarkan berbagai fitur medis seperti usia, tekanan darah, kadar kolesterol, dan lainnya.
 
-Dataset yang digunakan merupakan data klinis pasien yang telah diproses dan dianalisis menggunakan beberapa algoritma machine learning untuk مقارنة performa model.
+Dataset yang digunakan merupakan data klinis pasien yang telah diproses dan dianalisis menggunakan beberapa algoritma machine learning untuk performa model.
 
 
 ## 📊 Dataset
